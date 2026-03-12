@@ -125,3 +125,96 @@ The collinear design enhances directivity and overall gain without sacrificing h
 <p align="center">
     <img src="Antenna/IMG_4284.jpg.jpg" alt="Combined Collinear Array Antenna" width="600">
 </p>
+### Dipole Antenna (1/4 λ)
+
+The Dipole Antenna with a quarter-wavelength (1/4 λ) design is one of the simplest and most widely used antennas in communication systems. It consists of a single radiating element that is typically mounted over a ground plane, functioning as a monopole antenna with an effective length equal to one-quarter of the operating wavelength.
+
+Key specifications include:  
+- **Type:** Quarter-wavelength monopole/dipole  
+- **Length:** λ/4 of the operating frequency  
+- **Frequency range:** Determined by element length; typically used in VHF/UHF bands  
+- **Impedance:** Approximately 36–50 Ω when mounted over a proper ground plane  
+- **Radiation pattern:** Omni-directional in the horizontal plane  
+- **Polarization:** Vertical  
+- **Applications:** Mobile communications, FM broadcasting, simple wireless systems  
+
+The 1/4 λ dipole is compact yet effective, providing an omnidirectional horizontal radiation pattern, which makes it suitable for applications where the direction of the signal source is variable or unknown. Proper mounting above a ground plane is necessary to ensure efficient radiation and impedance matching. Its simplicity and predictable characteristics make it ideal for laboratory demonstrations and practical communication setups.
+
+<p align="center">
+    <img src="Antenna/IMG_4286.jpg" alt="Dipole Antenna 1/4 λ" width="600">
+</p>
+
+### Ground Plane
+
+A ground plane is a conductive surface or network used as a **reference for antennas**, particularly for monopole or quarter-wavelength dipole designs. It acts as a reflective surface, effectively creating an image of the antenna to complete the radiating structure, which improves radiation efficiency and stabilizes impedance.
+
+Key specifications and features include:  
+- **Type:** Conductive plate or wire radials  
+- **Configuration:** Typically a circular or square metal sheet, or multiple radial wires extending from the antenna base  
+- **Frequency range:** Can be designed for VHF, UHF, or microwave bands depending on antenna dimensions  
+- **Impedance impact:** Helps maintain approximately 50 Ω for standard monopoles  
+- **Radiation pattern:** Omni-directional in the horizontal plane  
+- **Applications:** Monopole antennas, quarter-wavelength dipoles, portable and fixed communication systems  
+
+The ground plane ensures that the monopole or dipole antenna radiates efficiently and exhibits predictable characteristics. Its size, shape, and number of radials influence the antenna’s impedance, bandwidth, and radiation pattern. Ground planes are essential in both laboratory setups and practical communication installations to provide a stable reference and improve overall antenna performance.
+
+<p align="center">
+    <img src="Antenna/IMG_4286.jpg" alt="Ground Plane" width="600">
+</p>
+
+### Simple Dipole for Paraboloid Reflector
+
+A simple dipole used with a paraboloid reflector acts as the **feed antenna** in a parabolic dish system. The dipole radiates electromagnetic waves, which are then reflected and focused by the parabolic surface to produce a highly directional beam with high gain. This combination is widely used in satellite communication, radar, and point-to-point microwave links.
+
+Key specifications and features include:  
+- **Type:** Half-wave dipole (1/2 λ)  
+- **Configuration:** Positioned at the focal point of the paraboloid reflector  
+- **Frequency range:** Depends on the dipole and reflector dimensions; typically VHF/UHF or microwave bands  
+- **Impedance:** Approximately 73 Ω for a free-space half-wave dipole; matched to 50 Ω via feed design  
+- **Radiation pattern:** Highly directional due to reflector focusing, narrow beamwidth  
+- **Applications:** Satellite communication, radar systems, high-gain point-to-point links  
+
+The paraboloid reflector amplifies the dipole’s radiation by reflecting the emitted waves into a concentrated beam, significantly increasing antenna gain and directivity. The placement and alignment of the dipole at the reflector’s focal point are critical to achieve maximum efficiency and minimize signal loss or sidelobes. This type of antenna setup demonstrates the principles of **antenna gain enhancement and beam focusing** in practical communication systems.
+
+<p align="center">
+    <img src="Antenna/Antenna/IMG_4288.jpg" alt="Simple Dipole for Paraboloid Reflector" width="600">
+</p>
+
+### Simple Dipole (λ/2)
+
+The Simple Dipole (half-wavelength) is one of the most fundamental and widely used antennas in radio and communication systems. It consists of two conductive elements with a total length equal to half the wavelength (λ/2) of the operating frequency, fed at the center with a balanced transmission line.
+
+Key specifications and features include:  
+- **Type:** Half-wave dipole  
+- **Length:** λ/2 of the operating frequency  
+- **Frequency range:** Determined by element length; commonly used in VHF/UHF bands  
+- **Impedance:** Approximately 73 Ω in free space; can be matched to 50 Ω using a balun  
+- **Radiation pattern:** Broadside, with maximum radiation perpendicular to the axis of the dipole  
+- **Polarization:** Linear  
+- **Applications:** Broadcasting, point-to-point communication, and as a feed element for larger antennas (e.g., Yagi, parabolic reflector)  
+
+The half-wave dipole offers predictable radiation characteristics and is often used as a reference antenna in laboratory and field experiments. Its simple design allows easy calculation of element length for a desired frequency, while providing an efficient and reliable radiation pattern for practical communication applications.
+
+<p align="center">
+    <img src="Antenna/IMG_4289.jpg" alt="Simple Dipole λ/2" width="600">
+</p>
+
+### Dipole Antenna (3/2 λ)
+
+The Dipole Antenna with a length of three-halves wavelength (3/2 λ) is an extended version of the standard half-wave dipole, providing **multiple radiation lobes** and higher gain along specific directions. It is primarily used in applications where increased directivity or specific radiation patterns are required.
+
+Key specifications and features include:  
+- **Type:** Multi-lobed dipole  
+- **Length:** 3/2 of the operating wavelength (λ)  
+- **Frequency range:** Determined by the element length; commonly used in VHF/UHF bands  
+- **Impedance:** Varies with multiple lobes; typically requires matching for 50 Ω systems  
+- **Radiation pattern:** Multiple main lobes with nulls between lobes; more directional than λ/2 dipole  
+- **Polarization:** Linear  
+- **Applications:** Antenna arrays, directional communication, and experimental studies in radiation patterns  
+
+The 3/2 λ dipole produces **additional lobes** compared to the half-wave dipole, which allows the antenna to radiate in multiple preferred directions. Its design illustrates how increasing antenna length relative to wavelength affects radiation characteristics, directivity, and impedance, making it useful for both **practical applications and educational demonstrations** of antenna theory.
+
+<p align="center">
+    <img src="Antenna/IMG_4290.jpg" alt="Dipole Antenna 3/2 λ" width="600">
+</p>
+
