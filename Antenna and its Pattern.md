@@ -461,3 +461,65 @@ The connector setup ensures **stable electrical contact** and proper impedance m
 <p align="center">
     <img src="Antenna/IMG_4303.png" alt="Yagi-Uda Antenna Feed Setup" width="600">
 </p>
+
+### Matching Stub for Antenna Trainer
+
+The image shows a **Matching Stub** connected to a transmitting mast and other RF components in an antenna training setup. A matching stub is used to **adjust impedance between the antenna and transmission line**, ensuring maximum power transfer and reducing signal reflections. It typically consists of a **movable shorting element along a transmission line**, allowing students to experiment with impedance matching for various antenna types.
+
+Key specifications and features include:  
+- **Type:** Adjustable matching stub for antenna training  
+- **Purpose:** Impedance matching between antenna and transmission line  
+- **Configuration:** Movable shorting element along a graduated line for fine-tuning  
+- **Applications:** Laboratory antenna experiments, learning impedance matching, and RF signal optimization  
+- **Integration:** Works with transmitting masts, directional antennas, and receiver units  
+
+The matching stub allows users to observe **how adjusting the stub position affects signal transmission and reflection**, providing hands-on understanding of antenna impedance and VSWR (Voltage Standing Wave Ratio) in practical RF systems.
+
+<p align="center">
+    <img src="Antenna/IMG_4304.png" alt="Matching Stub Antenna Trainer" width="600">
+</p>
+
+### Folded Dipole Receiver Setup
+
+The image shows a Folded Dipole Antenna connected to an oscilloscope in a receiver training setup. The folded dipole is designed to **receive RF signals efficiently**, providing a simple yet effective way to observe waveform characteristics on a measurement device. This setup allows students to explore **signal reception, polarization effects, and waveform analysis.**
+
+Key specifications and features include:
+- **Type:** Folded dipole receiver antenna
+- **Purpose:** Capture RF signals for oscilloscope observation
+- **Configuration:** Mounted on a stand with adjustable orientation for polarization testing
+- **Applications:** Laboratory experiments for learning signal reception, waveform visualization, and antenna theory
+- **Integration:** Works with transmitting masts, signal generators, and oscilloscope measurement tools
+
+This receiver setup allows users to observe how the antenna captures signals from a transmitter, visualize them on an oscilloscope, and analyze waveform characteristics such as amplitude, frequency, and noise. It provides a practical introduction to antenna behavior, signal propagation, and RF measurement techniques.
+
+<p align="center"> <img src="Antenna/IMG_4307.png" alt="Folded Dipole Receiver Setup" width="600"> </p>
+
+### RF Detector Setup
+
+The image shows an RF Detector connected to a measurement device in a laboratory setup. The RF detector is designed to **detect and measure RF signals efficiently**, providing a simple yet effective way to observe signal characteristics from various RF sources. This setup allows students to explore **signal strength, waveform behavior, and source localization.**
+
+Key specifications and features include:  
+- **Type:** RF Detector Module  
+- **Purpose:** Capture RF signals for measurement and analysis  
+- **Configuration:** Mounted on a stand or breadboard with probe connections for easy testing  
+- **Applications:** Laboratory experiments for learning RF detection, signal visualization, and antenna testing  
+- **Integration:** Works with transmitting antennas, signal generators, and measurement instruments  
+
+This RF detector setup allows users to observe how the module responds to RF sources, visualize signals on connected devices, and analyze characteristics such as amplitude, frequency, and noise. It provides a practical introduction to **RF sensing, signal propagation, and measurement techniques.**
+
+<p align="center"> <img src="Antenna/IMG_4308.png" alt="RF Detector Setup" width="600"> </p>
+
+### Receiving Mast Setup
+
+The image shows a Receiving Mast connected to a measurement device in a laboratory setup. The receiving mast is designed to **support multiple antennas and improve signal capture**, providing a stable and adjustable platform for observing RF signals from various sources. This setup allows students to explore **signal reception, antenna orientation effects, and waveform analysis.**
+
+Key specifications and features include:  
+- **Type:** Adjustable receiving mast  
+- **Purpose:** Hold antennas for optimal RF signal reception  
+- **Configuration:** Mounted with adjustable height and rotation for testing polarization and directionality  
+- **Applications:** Laboratory experiments for learning antenna placement, signal capture, and propagation analysis  
+- **Integration:** Works with various receiving antennas, signal generators, and measurement devices  
+
+This receiving mast setup allows users to observe how antenna height and orientation affect signal strength, visualize captured waveforms on measurement devices, and analyze RF propagation characteristics. It provides a practical introduction to **antenna support structures, reception techniques, and experimental RF analysis.**
+
+<p align="center"> <img src="Antenna/IMG_4309.png" alt="Receiving Mast Setup" width="600"> </p>
